@@ -1,3 +1,5 @@
+
+
 .body {
     font-family: "Roboto", sans-serif;
     color: #434455;
@@ -11,7 +13,7 @@
     letter-spacing: 0.03em;
     text-transform: uppercase;
     color: #4d5ae5;
-    /* Інші стилі, які ви хочете встановити для логотипу */
+    
 }
 .span {
     color: #2e2f42;
