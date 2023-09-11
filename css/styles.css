@@ -29,6 +29,6 @@ span {
 .list:hover {
     color:#404bbf;
 }
-.list1:focus {
+.list:focus {
     color: #404bbf;
 }
