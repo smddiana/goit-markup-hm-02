@@ -110,9 +110,13 @@ span {
 .p-footer {
     line-height: 1.5;
     letter-spacing: 0.02em;
+    
+}
+:root {
+    white: #F4F4FD;
 }
 
 .p-footer {
-    color:var(#F4F4FD);
+    color:var(white);
 }
 
