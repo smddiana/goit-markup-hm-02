@@ -103,3 +103,16 @@ span {
 .footer {
     background-color: #2e2f42;
 }
+.one-span {
+    color: #f4f4fd;
+    
+}
+.p-footer {
+    line-height: 1.5;
+    letter-spacing: 0.02em;
+}
+/* Определение переменной CSS с цветом */
+.p-footer:root {
+    color: #F4F4FD;
+}
+
