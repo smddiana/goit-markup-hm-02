@@ -113,6 +113,6 @@ span {
 }
 
 .p-footer {
-    color:var #F4F4FD;
+    color:var(#F4F4FD);
 }
 
