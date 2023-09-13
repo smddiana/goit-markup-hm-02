@@ -111,7 +111,7 @@ span {
     line-height: 1.5;
     letter-spacing: 0.02em;
 }
-/* Определение переменной CSS с цветом */
+
 .p-footer:root {
     color: #F4F4FD;
 }
