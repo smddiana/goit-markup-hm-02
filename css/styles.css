@@ -32,3 +32,15 @@ span {
 .list:focus {
     color: #404bbf;
 }
+.address {
+    font-style: normal;
+    line-height: 1.5;
+    letter-spacing: 0.02em;
+    color: #434455;
+}
+.address:hover {
+    color: #404bbf;
+}
+.address:focus {
+    color: #404bbf;
+}
