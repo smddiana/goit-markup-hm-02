@@ -113,10 +113,10 @@ span {
     
 }
 :root {
-    --custom-text-color: #F4F4FD;
+    --text-color: #F4F4FD;
 }
 
 .p-footer {
-    color: var(--custom-text-color);
+    color: var(--text-color);
 }
 
