@@ -13,6 +13,7 @@ body {
     letter-spacing: 0.03em;
     text-transform: uppercase;
     color: #4d5ae5;
+    text-decoration: none;
     
 }
 span {
@@ -24,6 +25,7 @@ span {
     font-size: 16px;
     line-height: 1.5;
     letter-spacing: 0.02em;
+    text-decoration: none;
 }
 .list:hover {
     color:#404bbf;
@@ -39,6 +41,7 @@ span {
     line-height: 1.5;
     letter-spacing: 0.02em;
     color: #434455;
+    text-decoration: none;
 }
 .contacts:hover {
     color: #404bbf;
@@ -118,5 +121,8 @@ span {
 
 .p-footer {
     color: var(--text-color);
+}
+ul li {
+list-style-type: none;
 }
 
